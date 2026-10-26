@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">XYConvert 触控板轴对调</string>
+    <string name="accessibility_service_name">XYConvert 触控板轴对调服务</string>
+    <string name="accessibility_service_desc">用于在三星 Galaxy Tab S9+ 平板上拦截触控板/鼠标输入，支持对调 X/Y 轴、旋转对齐（竖屏使用横向键盘）以及反向控制。</string>
+    <string name="status_disabled">无障碍服务未开启</string>
+    <string name="status_enabled">无障碍服务运行中</string>
+    <string name="btn_enable_service">前往系统设置开启无障碍服务</string>
+    <string name="group_axis_title">轴向控制设置</string>
+    <string name="switch_swap_xy">对调 X 轴与 Y 轴</string>
+    <string name="switch_invert_x">反转 X 轴方向</string>
+    <string name="switch_invert_y">反转 Y 轴方向</string>
+    <string name="group_preset_title">旋转预设模式</string>
+    <string name="preset_normal">默认模式（直接对调 X/Y）</string>
+    <string name="preset_cw90">竖屏90°模式（顺时针旋转）</string>
+    <string name="preset_ccw90">竖屏270°模式（逆时针旋转）</string>
+    <string name="group_pointer_title">指针与手势配置</string>
+    <string name="sensitivity_label">灵敏度调节: %1$.1fx</string>
+    <string name="pointer_size_label">指针大小: %1$d dp</string>
+</resources>
